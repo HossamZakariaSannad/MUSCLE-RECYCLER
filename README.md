@@ -64,7 +64,7 @@ Muscle Recycler is built to revolutionize home workouts by combining **AI** and 
 
 ---
 
-## 📂 Folder Structure (Expected)
+## 📂 Folder Structure 
 
 ```
 MUSCLE-RECYCLER/
